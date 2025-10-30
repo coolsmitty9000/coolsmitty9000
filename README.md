@@ -29,7 +29,7 @@
 <p>
   <i><b>I am currently focused on school, but I have some hobby projects going on that aren't shown on my public repos: </b></i>
   <br />
-    <li> I made a Discord bot to start a minecraft server on my machine for my friends, since I wasn't always home to start it </li>
+    <li> I made a Discord bot to start a Minecraft server on my machine for my friends, since I wasn't always home to start it </li>
     <li> I made an aim trainer with JFrames, as I wanted to learn about those and how to get screen size & bounds</li>
     <li> I made a virtual deck of card that draws a random set of 4 cards in any given suit, then removes them <i>(mostly for practice with lists)</i></li>
 </p>
