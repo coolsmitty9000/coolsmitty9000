@@ -42,7 +42,7 @@
 </div>
 
 <p>
-  Me and my friend <i>Sl0th-Silence</i> are making a program that scans game directories to provide an achievement guide for them, although this is still in a planning stage. I'm hoping this turns out to be something interesting, but the development will take time
+  My friend <i>Sl0th-Silence</i> and I are making a program that scans game directories to provide an achievement guide for them, although this is still in a planning stage. I'm hoping this turns out to be something interesting, but the development will take time
 </p>
 
 <!--
