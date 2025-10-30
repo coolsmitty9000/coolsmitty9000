@@ -18,7 +18,7 @@
 <!-- other stuff -->
 
 <p>
-  I am a software developer, currently taking the CPA program offered at <b>St. Lawrence College</b> 
+  I am a software developer, currently taking the Computer Programming and Analysis program offered at <b>St. Lawrence College</b> 
   <br />
   I started coding before highschool using <a href="https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA">Brackey's</a> tutorials on my own time. 
   But I was taught Java throughout highschool during my COMP-SCI classes, and that is how I discovered how much I enjoy programming and why I chose to pursue it as a career. 
