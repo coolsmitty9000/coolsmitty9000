@@ -44,6 +44,9 @@
 <p>
   My friend <i>Sl0th-Silence</i> and I are making a program that scans game directories to provide a list of all installed games, although this is still in a planning stage. I'm hoping this turns out to be something interesting, but the development will take time
 </p>
+<p>
+  I made a discord bot for my own personal server, which I plan to continue exanding on with new ideas. It is public <i>(as of writing this)</i> but it may end up being set to private depending on how far into it I want to go, and if I want to actually deploy this on a small scale or not
+</p>
 
 <!--
 **coolsmitty9000/coolsmitty9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
