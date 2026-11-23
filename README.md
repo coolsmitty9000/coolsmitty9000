@@ -29,7 +29,7 @@
 <p>
   <i><b>I am currently focused on school, but I have some hobby projects I made before that aren't shown on my public repos: </b></i>
   <br />
-    <li> I made a Discord bot to start a Minecraft server on my machine for my friends, since I wasn't always home to start it </li>
+    <li> I made a Discord bot to play music in my server, as well as keep track of the games me and my friends are playing </li>
     <li> I made an aim trainer with JFrames, as I wanted to learn about those and how to get screen size & bounds</li>
     <li> I made a virtual deck of card that draws a random set of 4 cards in any given suit, then removes them <i>(mostly for practice with lists)</i></li>
 </p>
@@ -41,9 +41,6 @@
   <img src="./assets/skeleton.gif" height=130px width=130px align=right>
 </div>
 
-<p>
-  My friend <i>Sl0th-Silence</i> and I are making a program that scans game directories to provide a list of all installed games, although this is still in a planning stage. I'm hoping this turns out to be something interesting, but the development will take time
-</p>
 <p>
   I made a discord bot for my own personal server, which I plan to continue exanding on with new ideas. Although the repo is private now, since I decided to exand on it a lot more than the baseline form that it was in and potentially deploy it on a small scale to maybe my school discord server
 </p>
